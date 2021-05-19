@@ -1,0 +1,61 @@
+body{
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    font-size: 14px;
+    line-height: 1.5;
+}
+.header{
+    color: white;
+    background-color:#24292e;
+    padding: 18px;
+    
+    background-color: #24292e;
+    color: w
+}
+#italics{
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-size: 12px;
+}
+#a:hover {
+       color: #007bff;
+  }
+#fotter{
+    padding-left: 200px;
+    text-align: center;
+}
+#RepositarySearch{
+    border-radius: 6px;
+  
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: inherit;
+    color: inherit;
+    background: none;
+    border: 1px  white;
+}
+#options{
+    word-spacing: 30px;
+    text-align: left;
+}
+img{
+    border: 3px dashed grey;
+    border-radius: 60%;
+    padding: 2px 1px 1px 2px;
+    width:150px;
+     height:  150px;
+}
+.searchdata{
+        width: 600px;
+        height: auto;
+        padding-left: 50px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        align-items: center;
+        justify-content: space-evenly;
+        background: white;
+        border-radius: 40px;
+        border: 2px #f1f1f1 ;
+       border-style: groove;
+        margin-left: 20px;
+        margin: auto;
+        margin-top: 20px; 
+}
